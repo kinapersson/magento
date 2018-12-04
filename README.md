@@ -29,3 +29,11 @@ Jag har utifrån kravspec:
 - Använt translat
 
 ?
+
+Jag vill ha G i denna uppgift för att:
+
+    - Jag på egen hand installerat Magento utifrån kraven, samt löst problem som uppkommit under tiden
+    - Jag har lärt mig hur Magento är uppbyggt, hur man installerar en modul/tema
+    - Jag har lärt mig felsöka främst under setup-momentet men även senare, navigerat mig i php-miljön
+    - Jag har lärt mig nya och användningsbara kommandon i terminalen
+    
